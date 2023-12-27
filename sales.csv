@@ -1,0 +1,21 @@
+product_id,product_name,category,gender,size,color,price,quantity_sold,date_sold
+1,Nike Air Max 270,Running,Men,10.5,Black/White,150,120,2022-01-15
+2,Nike React Element 55,Training,Women,8,Pink/Gray,120,90,2022-02-03
+3,Nike Air Force 1 '07,Basketball,Men,9,White,100,200,2022-03-20
+4,Nike Zoom Pegasus 38,Running,Women,7.5,Blue/Purple,130,80,2022-04-10
+5,Nike SB Dunk Low,Skateboarding,Unisex,11,Green/Orange,110,150,2022-05-05
+6,Nike Joyride Run Flyknit,Running,Men,10,Black/Red,160,100,2022-06-18
+7,Nike Blazer Mid '77,Vintage,Women,9.5,White/Red,110,75,2022-07-02
+8,Nike Air Zoom Structure 23,Running,Men,11,Blue/Black,140,180,2022-08-14
+9,Nike Air Max 90,Casual,Women,8,Beige/Brown,120,120,2022-09-30
+10,Nike SB Janoski,Skateboarding,Unisex,8.5,Black/Gum,80,60,2022-10-22
+11,Nike Air Zoom SuperRep 2,Training,Women,7,Gray/Pink,130,95,2022-11-08
+12,Nike Air Max Excee,Running,Men,9.5,White/Blue,110,110,2022-12-19
+13,Nike React Infinity Run Flyknit,Running,Women,6.5,Purple/Orange,160,85,2023-01-07
+14,Nike Air Jordan 1 Retro High,Basketball,Men,10,Black/Red,170,220,2023-02-15
+15,Nike Free RN 5.0,Running,Women,8,Black/Pink,100,130,2023-03-03
+16,Nike SB Dunk High Pro,Skateboarding,Unisex,10,Yellow/Blue,120,70,2023-04-25
+17,Nike Air Max 2090,Casual,Men,11,Gray/Green,150,190,2023-05-12
+18,Nike Air Zoom Winflo 7,Running,Women,7.5,Blue/Pink,110,100,2023-06-30
+19,Nike Blazer Low '77,Vintage,Men,9,White/Black,100,80,2023-07-15
+20,Nike React Presto,Casual,Unisex,8,Orange/Black,130,120,2023-08-28
